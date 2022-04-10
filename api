@@ -1,0 +1,8 @@
+api.openweathermap.org/data/2.5/weather?q={city name},{state code},{country code}&appid={API key}
+bc63c33c266959f4939546ec5f44c7c4
+
+cloudy-https://images.unsplash.com/photo-1495072667656-424d680e6299?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNsb3VkeSUyMHdlYXRoZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60
+
+clear-https://media.istockphoto.com/photos/sun-on-blue-sky-with-clouds-picture-id824800468?b=1&k=20&m=824800468&s=170667a&w=0&h=3shOnnkimj6ovXSrOtjHOngOSab4vPKCMzmdV-tnZVw=
+ 
+haze-https://media.istockphoto.com/photos/fog-and-clouds-on-mountain-picture-id1160438555?b=1&k=20&m=1160438555&s=170667a&w=0&h=K-BiNam5YFkh9Bk8uAizMj3Q0juIpQoqizl_UJs8qwQ=
